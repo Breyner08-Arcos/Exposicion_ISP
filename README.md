@@ -46,21 +46,3 @@ Pizza miPizza = new Pizza.PizzaBuilder("Grande")
 El patrón Builder permite instanciar objetos con gran flexibilidad, usando una sintaxis fluida y segura. Mejora la escalabilidad y claridad del código en comparación con constructores con muchos parámetros.
 
 ---
-
-## ⚙️ Requisitos
-
-- Java 8 o superior
-- IDE como IntelliJ IDEA, Eclipse o compilación por línea de comandos
-
-### ▶️ Cómo ejecutar
-
-```bash
-javac *.java
-java DemoPizza
-```
-
----
-
-## 📚 Créditos
-
-Este código forma parte de una exposición académica sobre principios de diseño orientado a objetos y patrones de diseño, dirigida a estudiantes de ingeniería en sistemas.
