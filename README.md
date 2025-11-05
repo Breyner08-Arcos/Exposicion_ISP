@@ -77,7 +77,7 @@ class Robot implements Trabajador {
 | Acoplamiento     | Alto                                          | Bajo                                     |
 | Reutilización    | Baja                                          | Alta                                     |
 | Cumple ISP       | ❌ No                                         | ✅ Sí                                     |
-
+```
 ### Diagrama de clases – Principio de Segregación de Interfaces (ISP)
 
 Este diagrama representa la correcta aplicación del ISP, separando las responsabilidades en interfaces pequeñas y específicas.
